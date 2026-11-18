@@ -17,7 +17,7 @@
   
 ## 🔗 ![image](https://raw.githubusercontent.com/xiaoCRQ/xiaoCRQ/main/svg/mysociallinks.svg)
 
-- 📺️ **Bilibili**: [小CRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
+- 📺️ **Bilibili**: [XiaoCRQ](https://space.bilibili.com/449655435?spm_id_from=333.999.0.0)
 
 ## ✨ ![image](https://raw.githubusercontent.com/xiaoCRQ/xiaoCRQ/main/svg/mygithubstats.svg)
 [![xiaoCRQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoCRQ&show_icons=true&count_private=true)](https://github.com/xiaoCRQ)
